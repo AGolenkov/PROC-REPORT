@@ -1,0 +1,2 @@
+Исходные данные для вебинара были взяты из:
+https://www.kaggle.com/gregorut/videogamesales
